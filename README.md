@@ -6,3 +6,5 @@
 PyMath es un repositorio publico y de contribución libre en cuál se pubicarán ejercicios programados en Python relacionados con las matemáticas.
 
 > # Índice
++ [Calcular el MCD mediante el algortimo de Euclides.]()
++ []()
