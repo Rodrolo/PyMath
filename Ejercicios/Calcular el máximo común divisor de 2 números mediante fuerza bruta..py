@@ -1,4 +1,4 @@
-#Sacar el máximo común divisor de 2 números mediante fuerza bruta.
+#Calcular el máximo común divisor de 2 números mediante fuerza bruta.
 
 #Variables
 x = int(input("Número X: "))
