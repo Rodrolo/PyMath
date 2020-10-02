@@ -1,19 +1,18 @@
-#Descomponer un número en números primos.
-#1.) No insertar más de 10 números.
+#Descomponer un nÃºmero en nÃºmeros primos.
+#1.) No insertar mÃ¡s de 10 nÃºmeros.
 
-print("<==Descomponer o factorizar un número en números primos. (Max. 10 cifras)==>") #El título. Para que quede bonito solo :)
+print("<==Descomponer o factorizar un nÃºmero en nÃºmeros primos. (Max. 10 cifras)==>") #El tÃ­tulo. Para que quede bonito solo :)
 
-x = int(input("-Número X: ")) #Creamos un campo para insertar nuestro número en la consola.
+x = int(input("-NÃºmero X: ")) #Creamos un campo para insertar nuestro nÃºmero en la consola.
         
-def descomponer(x): #Definimos la función "descomponer". Así mismo indicamos "x" como variable. Perdón :)
+def descomponer(x): #Definimos la funciÃ³n "descomponer". AsÃ­ mismo indicamos "x" como variable. PerdÃ³n :)
 
-    primos = [] #Lista donde iremos guardando los números primos
+    primos = [] #Lista donde iremos guardando los nÃºmeros primos
 
-    for i in range(2, x+1): #Buscamos todos los números primos desde 2 hasta x+1
-        while x % i == 0: #Si el resto de la división entre "x" y un número primo es igual a cero significa que es divisible.
+    for i in range(2, x+1): #Buscamos todos los nÃºmeros primos desde 2 hasta x+1
+        while x % i == 0: #Si el resto de la divisiÃ³n entre "x" y un nÃºmero primo es igual a cero significa que es divisible.
             primos.append(i) #Se insertan los divisores en la lista.
-            x = x / i #Si "x" en la primera división da como resto 0, seguiremos dividiendo los cocientes mientras dé 0 como resto (ej.: 60/2 -> 30 R:0 | 30/2 -> 15 R:0)
-    return primos #Vuelve a ejecutar la búsqueda cambiando de divisor (ej.: Divisor 2 -> Divisor 3).
+            x = x / i #Si "x" en la primera divisiÃ³n da como resto 0, seguiremos dividiendo los cocientes mientras dÃ© 0 como resto (ej.: 60/2 -> 30 R:0 | 30/2 -> 15 R:0)
+    return primos #Vuelve a ejecutar la bÃºsqueda cambiando de divisor (ej.: Divisor 2 -> Divisor 3).
 
 print(descomponer(x)) #Imprimiremos el resultado final.
-
