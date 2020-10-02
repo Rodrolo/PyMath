@@ -1,10 +1,10 @@
-#Sacar el mínimo común multiplo de 2 números
+#Sacar el mÃ­nimo comÃºn multiplo de 2 nÃºmeros
 
-#Variables. Creamos dos campos donde podremos insertar los números.
-x = int(input("Número X: "))
-y = int(input("Número Y: "))
+#Variables. Creamos dos campos donde podremos insertar los nÃºmeros.
+x = int(input("NÃºmero X: "))
+y = int(input("NÃºmero Y: "))
 
-#Definimos la función "mcm" con nuestras dos variables: "x" e "y".
+#Definimos la funciÃ³n "mcm" con nuestras dos variables: "x" e "y".
 def mcm(x, y):
 
     if x < y:
