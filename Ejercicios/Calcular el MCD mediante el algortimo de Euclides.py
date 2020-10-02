@@ -1,14 +1,14 @@
 #Calcular el MCD mediante el algortimo de Euclides.
-#1.) Es más efectivo que el método mediante fuerza bruta.
+#1.) Es mÃ¡s efectivo que el mÃ©todo mediante fuerza bruta.
 
 print("<==Calcular el MCD mediante el algortimo de Euclides.==>")
 
-x = int(input("-Número X: ")) #Creamos un campo para insertar nuestro número en la consola.
-y = int(input("-Número Y: ")) #Creamos un campo para insertar nuestro número en la consola
+x = int(input("-NÃºmero X: ")) #Creamos un campo para insertar nuestro nÃºmero en la consola.
+y = int(input("-NÃºmero Y: ")) #Creamos un campo para insertar nuestro nÃºmero en la consola
 
-def euclides(x, y): #Definimos la función "euclides". Así mismo indicamos "x" e "y" como variables.
+def euclides(x, y): #Definimos la funciÃ³n "euclides". AsÃ­ mismo indicamos "x" e "y" como variables.
     
-    while True:     #Si el resto de la división entre "x" e "y" es igual a 0, entonces "y" es el MCD. Sino "x" pasa a ser "y", e "y" pasa ha ser el resto que nos daba antes.
+    while True:     #Si el resto de la divisiÃ³n entre "x" e "y" es igual a 0, entonces "y" es el MCD. Sino "x" pasa a ser "y", e "y" pasa ha ser el resto que nos daba antes.
         resto = x % y
         if resto == 0:
             return y
@@ -17,3 +17,4 @@ def euclides(x, y): #Definimos la función "euclides". Así mismo indicamos "x" e 
             y = resto
 
 print(euclides(x, y)) #Imprimimos el resultado final.
+

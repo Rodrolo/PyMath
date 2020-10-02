@@ -22,3 +22,4 @@ def mcd(x, y):
 #Imprimiremos el resultado una vez lo tengamos.   
 print(mcd(x, y))
 
+
