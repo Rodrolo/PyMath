@@ -7,7 +7,7 @@ PyMath es un repositorio publico y de contribución libre en cuál se pubicarán
 
 > # ¿Cómo funciona?
 - El recuadro rojo indica el último ejercicio que se ha publicado:
-![Ejercicio](https://i.imgur.com/BfSumPL.png)
+![Ejercicio](https://i.imgur.com/KfFleVn.png)
 
 Para publicar un ejercicio sigue los siguientes pasos:
 ![Pasos]()
