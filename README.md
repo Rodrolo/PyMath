@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/github/license/Rodrolo/PyMath)
 
 > # Introducción
-PyMath es un repositorio publico y de contribución libre en cuál se pubicarán ejercicios programados en Python relacionados con las matemáticas.
+PyMath es un repositorio publico y de contribución libre en cuál se pubicarán ejercicios programados en Python relacionados con las matemáticas. Haz click [aquí](https://github.com/Rodrolo/PyMath#%C3%ADndice) para ir al índice directamente.
 
 > # ¿Cómo funciona?
 - El recuadro rojo indica el último ejercicio que se ha publicado:
