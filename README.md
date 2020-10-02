@@ -10,7 +10,7 @@ PyMath es un repositorio publico y de contribución libre en cuál se pubicarán
 ![Ejercicio](https://i.imgur.com/KfFleVn.png)
 
 Para publicar un ejercicio sigue los siguientes pasos:
-![Pasos]()
+![Pasos](https://i.imgur.com/KdMNKa3.png)
 
 > # Índice
 + [Calcular el MCD mediante el algortimo de Euclides.](https://github.com/Rodrolo/PyMath/blob/master/Ejercicios/Calcular%20el%20MCD%20mediante%20el%20algortimo%20de%20Euclides.py)
