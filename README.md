@@ -3,7 +3,7 @@
 ![License](https://www.upo.es/cms1/export/sites/upo/biblioteca/servicios/pubdig/propiedadintelectual/tutoriales/derechos_autor/images/pic036.png)
 
 > # Introducción
-PyMath es un repositorio publico y de contribución libre en cuál se pubicarán ejercicios programados en Python relacionados con las matemáticas. Haz click [aquí](https://github.com/Rodrolo/PyMath#%C3%ADndice) para ir al índice directamente. Lease la licencia bajo la que está este proyecto antes de publicar, utilizar y/o distribuir el material publicado haciendo click [aquí.](https://github.com/Rodrolo/PyMath/LICENSE.md)
+PyMath es un repositorio publico y de contribución libre en cuál se pubicarán ejercicios programados en Python relacionados con las matemáticas. Haz click [aquí](https://github.com/Rodrolo/PyMath#%C3%ADndice) para ir al índice directamente. Léase la licencia bajo la que está este proyecto antes de publicar, utilizar y/o distribuir el material publicado haciendo click [aquí.](https://github.com/Rodrolo/PyMath/LICENSE.md)
 
 > # ¿Cómo funciona?
 - El recuadro rojo indica el último ejercicio que se ha publicado:
