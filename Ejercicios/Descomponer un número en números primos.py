@@ -3,7 +3,7 @@
 
 print("<==Descomponer o factorizar un número en números primos. (Max. 10 cifras)==>") #El título. Para que quede bonito solo :)
 
-x = int(input("-Número X: ")) #Creamos un campo para insertar nuestro número en la consola.
+x = int(input("Número X: ")) #Creamos un campo para insertar nuestro número en la consola.
         
 def descomponer(x): #Definimos la función "descomponer". Así mismo indicamos "x" como variable. Perdón :)
 
