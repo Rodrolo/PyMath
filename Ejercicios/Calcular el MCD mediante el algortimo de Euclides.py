@@ -3,8 +3,8 @@
 
 print("<==Calcular el MCD mediante el algortimo de Euclides.==>")
 
-x = int(input("-Número X: ")) #Creamos un campo para insertar nuestro número en la consola.
-y = int(input("-Número Y: ")) #Creamos un campo para insertar nuestro número en la consola
+x = int(input("Número X: ")) #Creamos un campo para insertar nuestro número en la consola.
+y = int(input("Número Y: ")) #Creamos un campo para insertar nuestro número en la consola
 
 def euclides(x, y): #Definimos la función "euclides". Así mismo indicamos "x" e "y" como variables.
     
