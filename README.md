@@ -1,6 +1,6 @@
 ![Logo](https://i.imgur.com/WkTZMVy.png)
 
-![License](https://img.shields.io/badge/license-CC%20BY--NC--ND%203.0%20ES-black)
+![License](https://img.shields.io/badge/licencia-CC%20BY--NC--ND%203.0%20ES-7cbb68) ![Python](https://img.shields.io/badge/lenguaje-Python-2b5b84) ![Topic](https://img.shields.io/badge/tema-Matem%C3%A1ticas-4cccbc)
 
 > ## Introducción
 PyMath es un repositorio público y de contribución libre en cuál se pubicarán ejercicios programados en Python relacionados con las matemáticas. Léase la licencia bajo la que está este proyecto antes de publicar, utilizar y/o distribuir el material publicado haciendo click [aquí.](https://github.com/Rodrolo/PyMath/blob/master/LICENSE.md)
