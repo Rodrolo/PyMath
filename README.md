@@ -11,7 +11,7 @@ Haz click [aquí](https://github.com/Rodrolo/PyMath/blob/master/README.md#ejerci
 - El recuadro rojo indica el último ejercicio que se ha publicado:
 ![Ejercicio](https://i.imgur.com/KfFleVn.png)
 
-Para publicar un ejercicio sigue los siguientes pasos:
+- Para publicar un ejercicio sigue los siguientes pasos:
 ![Pasos](https://i.imgur.com/KdMNKa3.png)
 
 > ## Ejercicios
