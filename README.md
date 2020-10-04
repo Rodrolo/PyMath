@@ -5,7 +5,7 @@
 > ## Introducción
 PyMath es un repositorio público y de contribución libre en cuál se pubicarán ejercicios programados en Python relacionados con las matemáticas. Léase la licencia bajo la que está este proyecto antes de publicar, utilizar y/o distribuir el material publicado haciendo click [aquí.](https://github.com/Rodrolo/PyMath/blob/master/LICENSE.md)
 
-Haz click [aquí](https://github.com/Rodrolo/PyMath#%C3%ADndice) para ir la lista de ejercicios directamente.
+Haz click [aquí](https://github.com/Rodrolo/PyMath#lista-de-ejercicios) para ir la lista de ejercicios directamente.
 
 > ## ¿Cómo funciona?
 - El recuadro rojo indica el último ejercicio que se ha publicado:
