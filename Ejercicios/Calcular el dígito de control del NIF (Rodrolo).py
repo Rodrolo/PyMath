@@ -1,13 +1,13 @@
-#Calcular el dÌgito de control del NIF.
+#Calcular el d√≠gito de control del NIF.
 
-#El tÌtulo
-print("<==Calcular el dÌgito de control del NIF.==>")
+#El t√≠tulo
+print("<==Calcular el d√≠gito de control del NIF.==>")
 
 #Variables
-nif = int(raw_input("Introduce los 8 dÌgitos del NIF: ")) #Campo donde introduciremos los 8 dÌgitos del NIF.
+nif = int(raw_input("Introduce los 8 d√≠gitos del NIF: ")) #Campo donde introduciremos los 8 d√≠gitos del NIF.
 letra = nif % 23
 
-#CondiciÛn: Depende del resto que obtengamos de la divisiÛn entree el NIF y 23, nos dar· una letra diferente.
+#Condici√≥n: Depende del resto que obtengamos de la divisi√≥n entree el NIF y 23, nos dar√° una letra diferente.
 if letra == 0:
     print("T")
 elif letra == 1:
