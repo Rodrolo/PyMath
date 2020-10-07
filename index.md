@@ -12,7 +12,7 @@ Haz click [aquí](https://rodrolo.github.io/PyMath/#ejercicios) para ir al lista
 ![Ejercicio](https://i.imgur.com/KfFleVn.png)
 
 - Para publicar un ejercicio sigue los siguientes pasos:
-![Pasos](https://i.imgur.com/KdMNKa3.png)
+![Pasos](https://i.imgur.com/vbrnBZw.png)
 
 
 > ## Ejercicios
