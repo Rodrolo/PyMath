@@ -22,3 +22,4 @@ Haz click [aquí](https://github.com/Rodrolo/PyMath/blob/master/README.md#ejerci
 + [Calcular el primer múltiplo de un número mayor que otro número (Rodrolo).](https://github.com/Rodrolo/PyMath/blob/master/Ejercicios/Calcular%20el%20primer%20m%C3%BAltiplo%20de%20un%20n%C3%BAmero%20mayor%20que%20otro%20n%C3%BAmero%20(Rodrolo).py)
 + [Calcular el factorial de un número (Rodrolo).](https://github.com/Rodrolo/PyMath/blob/master/Ejercicios/Calcular%20el%20factorial%20de%20un%20n%C3%BAmero%20(Rodrolo).py)
 + [Calcular el dígito de control del NIF (Rodrolo).](https://github.com/Rodrolo/PyMath/blob/master/Ejercicios/Calcular%20el%20d%C3%ADgito%20de%20control%20del%20NIF%20(Rodrolo).py)
++ [Calcular la diferencia porcentual (Rodrolo).](https://github.com/Rodrolo/PyMath/blob/master/Ejercicios/Calcular%20la%20diferencia%20porcentual%20(Rodrolo).py)
