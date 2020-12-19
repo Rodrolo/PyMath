@@ -24,3 +24,5 @@ Haz click [aquí](https://rodrolo.github.io/PyMath/#ejercicios) para ir al lista
 + [Calcular el factorial de un número (Rodrolo).](https://github.com/Rodrolo/PyMath/blob/master/Ejercicios/Calcular%20el%20factorial%20de%20un%20n%C3%BAmero%20(Rodrolo).py)
 + [Calcular el dígito de control del NIF (Rodrolo).](https://github.com/Rodrolo/PyMath/blob/master/Ejercicios/Calcular%20el%20d%C3%ADgito%20de%20control%20del%20NIF%20(Rodrolo).py)
 + [Calcular la diferencia porcentual (Rodrolo).](https://github.com/Rodrolo/PyMath/blob/master/Ejercicios/Calcular%20la%20diferencia%20porcentual%20(Rodrolo).py)
++ [Calcular el índice de variación (Rodrolo).](https://github.com/Rodrolo/PyMath/blob/master/Ejercicios/Calcular%20el%20%C3%ADndice%20de%20variaci%C3%B3n%20(Rodrolo).py)
++ [Calculadora de IVA (Rodrolo).](https://github.com/Rodrolo/PyMath/blob/master/Ejercicios/Calculadora%20de%20IVA%20(Rodrolo).py)
